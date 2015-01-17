@@ -1,18 +1,25 @@
 CACHE MANIFEST
-# Time: Fri Jan 16 2015 19:11:56 GMT+0300 (MSK)
+# Time: Fri Nov 28 2014 15:39:36 GMT+0000 (GMT)
 
 
 CACHE:
+badbrowser.html
 favicon.ico
 favicon_unread.ico
 css/app.css
 css/desktop.css
 css/mobile.css
-img/Telegram.png
-img/Telegram72.png
-img/Telegram72_2x.png
-img/Telegram_2x.png
+img/T_LogoM.png
+img/T_LogoM_1x.png
+img/WebIntro1.png
+img/WebIntro1_1x.png
+img/WebIntro2.png
+img/WebIntro2_1x.png
+img/WebIntro3.png
+img/WebIntro3_1x.png
+img/bg_tile.png
 img/blank.gif
+img/decentralization.png
 img/emojisprite_0.png
 img/emojisprite_1.png
 img/emojisprite_2.png
@@ -20,20 +27,20 @@ img/emojisprite_3.png
 img/emojisprite_4.png
 img/iphone_home120.png
 img/iphone_startup.png
+img/logo_dogogram.png
 img/logo_share.png
-img/sound_a.mp3
+img/sound_a.wav
 js/app.js
 nacl/mtproto_crypto.nmf
 nacl/mtproto_crypto.pexe
 img/changelog/card_wecandoit.png
+img/changelog/search.png
 img/icons/AboutLogos_1x.png
 img/icons/AboutLogos_2x.png
 img/icons/Checks1_1x.png
 img/icons/Checks1_2x.png
 img/icons/Checks2_1x.png
 img/icons/Checks2_2x.png
-img/icons/General.png
-img/icons/General_1x.png
 img/icons/IconsetSmiles.png
 img/icons/IconsetSmiles_1x.png
 img/icons/IconsetW.png
@@ -42,8 +49,6 @@ img/icons/MobileIcons_1x.png
 img/icons/MobileIcons_2x.png
 img/icons/PhotoIcons.png
 img/icons/PhotoIcons_1x.png
-img/icons/ProfileIcons.png
-img/icons/ProfileIcons_2x.png
 img/placeholders/DialogListAvatarSystem@2x.png
 img/placeholders/GroupAvatar1@2x.png
 img/placeholders/GroupAvatar2@2x.png
